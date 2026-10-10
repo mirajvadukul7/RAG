@@ -1,0 +1,8 @@
+{
+  "name": "AegisRAG",
+  "description": "Secure Intelligence. Permission-Aware Answers. Zero-Leakage Multi-Modal RAG Architecture.",
+  "prompt": "Secure Intelligence. Permission-Aware Answers. Zero-Leakage Multi-Modal RAG Architecture.",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
